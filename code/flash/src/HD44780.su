@@ -1,0 +1,10 @@
+HD44780.c:18:15:InitLCD	24	static
+HD44780.c:76:6:Write_2digitsval	16	static
+HD44780.c:86:6:Write_ndigitsval	32	static
+HD44780.c:107:15:WriteChar	16	static
+HD44780.c:116:6:WriteString	32	static
+HD44780.c:134:6:WriteWord	32	static
+HD44780.c:147:15:WriteByte	24	static
+HD44780.c:185:15:PutCommand	16	static
+HD44780.c:194:15:GoToLine	24	static
+HD44780.c:218:6:WriteLine	32	static

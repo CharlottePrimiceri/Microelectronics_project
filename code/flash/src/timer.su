@@ -1,0 +1,5 @@
+core_cm0plus.h:611:22:NVIC_EnableIRQ	16	static
+timer.c:8:6:InitMRT	8	static
+timer.c:38:6:delayMs	16	static
+timer.c:48:6:delayUs	16	static
+timer.c:58:6:MRT_IRQHandler	8	static

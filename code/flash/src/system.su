@@ -1,0 +1,2 @@
+system.c:204:6:SystemInit	16	static
+system.c:315:6:SystemCoreClockUpdate	40	static
