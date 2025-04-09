@@ -6,5 +6,5 @@ Development of a project in the MCUXpresso environment with the LPC845 microcont
 - Niky Vitali
 
 ### Implementation
-### Data Structure in Decagon
-![image](https://github.com/CharlottePrimiceri/Microelectronics_project/blob/main/imgs/microcontroller.jpg)
+
+![image](https://github.com/CharlottePrimiceri/Microelectronics_project/blob/main/imgs/Screenshot%20from%202025-04-09%2020-50-56.png)
